@@ -2,8 +2,8 @@
 This is my code reference.
 
 #### Search
-  - ##### [Front-end](/)
-    * [HTML](/)
+  - ##### [Front-end](/frontend)
+    * [HTML](/frontend/html)
     * [CSS / Pre-processors](/)
     * [Javascript / Ecmascript / Typescript](/)
     * [SEO](/)
