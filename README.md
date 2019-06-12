@@ -3,12 +3,10 @@ This is my code reference.
 
 #### Search
 
-### Front-end
+### [Front-end](/frontend)
   
 <details>
-<summary>
-  <a href="/frontend/html">HTML</a>
-</summary>
+<summary>HTML</summary>
 
 * [`XPTO1`](/frontend/html)
 * [`XPTO2`](/frontend/html)
@@ -16,9 +14,7 @@ This is my code reference.
 </details>
 
 <details>
-<summary>
-  <a href="/frontend/js">Javascript / Ecmascript / Typescript</a>
-</summary>
+<summary>Javascript / Ecmascript / Typescript</summary>
 
 * [`XPTO1`](/frontend/js)
 * [`XPTO2`](/frontend/js)
@@ -26,9 +22,7 @@ This is my code reference.
 </details>
 
 <details>
-<summary>
-  <a href="/frontend/css">CSS / Pre-processors</a>
-</summary>
+<summary>CSS / Prprocessors</summary>
 
 * [`XPTO1`](/frontend/css)
 * [`XPTO2`](/frontend/css)
@@ -36,9 +30,7 @@ This is my code reference.
 </details>  
 
 <details>
-  <summary>
-    <a href="/frontend/seo">SEO</a>
-  </summary>
+  <summary>SEO</summary>
 
 * [`XPTO1`](/frontend/seo)
 * [`XPTO2`](/frontend/seo)
@@ -46,9 +38,7 @@ This is my code reference.
 </details>  
 
 <details>
-  <summary>
-    <a href="/frontend/testing">Testing</a>
-  </summary>
+  <summary>Testing</summary>
 
 * [`XPTO1`](/frontend/testing)
 * [`XPTO2`](/frontend/testing)
@@ -56,21 +46,17 @@ This is my code reference.
 </details>  
 
 <details>
-  <summary>
-    <a href="/frontend/testing">Others</a>
-  </summary>  
+  <summary>Others</summary>  
 
 * [`XPTO1`](/frontend/others)
 * [`XPTO2`](/frontend/others)
 * [`XPTO3`](/frontend/others)      
 </details>  
 
-### Back-end
+### [Back-end](/backend)
 
 <details>
-<summary>
-  <a href="/backend/nodejs">Nodejs</a>
-</summary>
+<summary>Nodejs</summary>
 
 * [`XPTO1`](/backend/nodejs)
 * [`XPTO2`](/backend/nodejs)
@@ -78,9 +64,7 @@ This is my code reference.
 </details>
 
 <details>
-<summary>
-  <a href="/backend/python">Python</a>
-</summary>
+<summary>Python</summary>
 
 * [`XPTO1`](/backend/python)
 * [`XPTO2`](/backend/python)
@@ -88,9 +72,7 @@ This is my code reference.
 </details>
 
 <details>
-<summary>
-  <a href="/backend/csharp">C#</a>
-</summary>
+<summary>C#</summary>
 
 * [`XPTO1`](/backend/csharp)
 * [`XPTO2`](/backend/csharp)
@@ -98,21 +80,17 @@ This is my code reference.
 </details>
 
 <details>
-<summary>
-  <a href="/backend/others">Others</a>
-</summary>
+<summary>Others</summary>
 
 * [`XPTO1`](/backend/others)
 * [`XPTO2`](/backend/others)
 * [`XPTO3`](/backend/others)
 </details>
 
-### Database
+### [Database](/database)
 
 <details>
-<summary>
-  <a href="/database/mysql">Mysql</a>
-</summary>
+<summary>Mysql</summary>
 
 * [`XPTO1`](/database/mysql/)
 * [`XPTO2`](/database/mysql/)
@@ -120,9 +98,7 @@ This is my code reference.
 </details>
 
 <details>
-<summary>
-  <a href="/database/oracle">Oracle</a>
-</summary>
+<summary>Oracle</summary>
 
 * [`XPTO1`](/database/oracle)
 * [`XPTO2`](/database/oracle)
@@ -130,9 +106,7 @@ This is my code reference.
 </details>
 
 <details>
-<summary>
-  <a href="/database/mongodb">MongoDB</a>
-</summary>
+<summary>MongoDB</summary>
 
 * [`XPTO1`](/database/mongodb)
 * [`XPTO2`](/database/mongodb)
@@ -140,9 +114,7 @@ This is my code reference.
 </details>
 
 <details>
-<summary>
-  <a href="/database/dynamodb">DynamoDB</a>
-</summary>
+<summary>DynamoDB</summary>
 
 * [`XPTO1`](/database/dynamodb)
 * [`XPTO2`](/database/dynamodb)
@@ -150,9 +122,7 @@ This is my code reference.
 </details>
 
 <details>
-<summary>
-  <a href="/database/postgre">Postgre</a>
-</summary>
+<summary>Postgre</summary>
 
 * [`XPTO1`](/database/postgre)
 * [`XPTO2`](/database/postgre)
@@ -160,21 +130,17 @@ This is my code reference.
 </details>
 
 <details>
-<summary>
-  <a href="/database/others">Others</a>
-</summary>
+<summary>Others</summary>
 
 * [`XPTO1`](/database/others)
 * [`XPTO2`](/database/others)
 * [`XPTO3`](/database/others)
 </details>
 
-### Devops
+### [Devops](/devops)
 
 <details>
-<summary>
-  <a href="/devops/docker">Docker</a>
-</summary>
+<summary>Docker</summary>
 
 * [`XPTO1`](/devops/docker)
 * [`XPTO2`](/devops/docker)
@@ -182,9 +148,7 @@ This is my code reference.
 </details>
 
 <details>
-<summary>
-  <a href="/devops/aws">AWS</a>
-</summary>
+<summary>AWS</summary>
 
 * [`XPTO1`](/devops/aws)
 * [`XPTO2`](/devops/aws)
@@ -192,9 +156,7 @@ This is my code reference.
 </details>
 
 <details>
-<summary>
-  <a href="/devops/serverless">Serverless</a>
-</summary>
+<summary>Serverless</summary>
 
 * [`XPTO1`](/devops/serverless)
 * [`XPTO2`](/devops/serverless)
@@ -202,9 +164,7 @@ This is my code reference.
 </details>
 
 <details>
-<summary>
-  <a href="/devops/gap">GAP</a>
-</summary>
+<summary>GAP</summary>
 
 * [`XPTO1`](/devops/gap)
 * [`XPTO2`](/devops/gap)
@@ -212,9 +172,7 @@ This is my code reference.
 </details>
 
 <details>
-<summary>
-  <a href="/devops/kubernetes">Kubernetes</a>
-</summary>
+<summary>Kubernetes</summary>
 
 * [`XPTO1`](/devops/kubernetes)
 * [`XPTO2`](/devops/kubernetes)
@@ -222,9 +180,7 @@ This is my code reference.
 </details>
 
 <details>
-<summary>
-  <a href="/devops/others">Others</a>
-</summary>
+<summary>Others</summary>
 
 * [`XPTO1`](/devops/others)
 * [`XPTO2`](/devops/others)
