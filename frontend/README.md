@@ -1,7 +1,8 @@
-### Frontend
+## Frontend
+
 * [HTML](/frontend/html)
-* [CSS / Pre-processors](/frontend/css)
-* [Javascript / Ecmascript / Typescript](/frontend/javascript)
+* [CSS / Pre-processors](/frontend/css-pre-processors)
+* [Javascript / Ecmascript / Typescript](/frontend/js)
 * [SEO](/frontend/seo)
 * [Testing](/frontend/testing)
-* [Others](/frontend/others)
+* [Others](/frontend/others/)
