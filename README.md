@@ -1,7 +1,7 @@
 # 📚 Code references
 This is my code reference.
 
-### [Front-end](/frontend)
+### Front-end
   
 <details>
 <summary>HTML</summary>
@@ -56,7 +56,7 @@ This is my code reference.
 * [`View All`](/frontend/others)
 </details>  
 
-### [Back-end](/backend)
+### Back-end
 
 <details>
 <summary>Nodejs</summary>
@@ -82,7 +82,7 @@ This is my code reference.
 * [`View All`](/backend/others)
 </details>
 
-### [Database](/database)
+### Database
 
 <details>
 <summary>Mysql</summary>
@@ -120,7 +120,7 @@ This is my code reference.
 * [`View All`](/database/others)
 </details>
 
-### [Devops](/devops)
+### Devops
 
 <details>
 <summary>Docker</summary>
