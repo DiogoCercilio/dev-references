@@ -3,21 +3,20 @@ This is my code reference.
 
 #### Search
 
-  <details>
-    <summary>
 ### [Front-end](/frontend)
-    </summary>
+<details>
+<summary>View Content</summary>
 * [HTML](/frontend/html)
 * [CSS / Pre-processors](/frontend/css)
 * [Javascript / Ecmascript / Typescript](/frontend/js)
 * [SEO](/frontend/seo)
 * [Testing](/frontend/testing)
 * [Others](/frontend/others/)
-  </details>
+</details>
 
   <details>
     <summary>
-      ### [Back-end](/backend)
+      ###[Back-end](/backend)
     </summary>
     * [NodeJS](/backend/nodejs)
     * [Python](/backend/python)
