@@ -6,51 +6,39 @@ This is my code reference.
 ### [Front-end](/frontend)
   
 <details>
-<summary>HTML</summary>
+  <summary>HTML</summary>
 
-* [`XPTO1`](/frontend/html)
-* [`XPTO2`](/frontend/html)
-* [`XPTO3`](/frontend/html)
+  * [`View All`](/frontend/html)
 </details>
 
 <details>
 <summary>Javascript / Ecmascript / Typescript</summary>
 
-* [`XPTO1`](/frontend/js)
-* [`XPTO2`](/frontend/js)
-* [`XPTO3`](/frontend/js)      
+* [`View All`](/frontend/js)
 </details>
 
 <details>
 <summary>CSS / Prprocessors</summary>
 
-* [`XPTO1`](/frontend/css)
-* [`XPTO2`](/frontend/css)
-* [`XPTO3`](/frontend/css)      
+* [`View All`](/frontend/css)
 </details>  
 
 <details>
   <summary>SEO</summary>
 
-* [`XPTO1`](/frontend/seo)
-* [`XPTO2`](/frontend/seo)
-* [`XPTO3`](/frontend/seo)      
+* [`View All`](/frontend/seo)
 </details>  
 
 <details>
   <summary>Testing</summary>
 
-* [`XPTO1`](/frontend/testing)
-* [`XPTO2`](/frontend/testing)
-* [`XPTO3`](/frontend/testing)      
+* [`View All`](/frontend/testing)
 </details>  
 
 <details>
   <summary>Others</summary>  
 
-* [`XPTO1`](/frontend/others)
-* [`XPTO2`](/frontend/others)
-* [`XPTO3`](/frontend/others)      
+* [`View All`](/frontend/others)
 </details>  
 
 ### [Back-end](/backend)
@@ -58,33 +46,25 @@ This is my code reference.
 <details>
 <summary>Nodejs</summary>
 
-* [`XPTO1`](/backend/nodejs)
-* [`XPTO2`](/backend/nodejs)
-* [`XPTO3`](/backend/nodejs)
+* [`View All`](/backend/nodejs)
 </details>
 
 <details>
 <summary>Python</summary>
 
-* [`XPTO1`](/backend/python)
-* [`XPTO2`](/backend/python)
-* [`XPTO3`](/backend/python)
+* [`View All`](/backend/python)
 </details>
 
 <details>
 <summary>C#</summary>
 
-* [`XPTO1`](/backend/csharp)
-* [`XPTO2`](/backend/csharp)
-* [`XPTO3`](/backend/csharp)
+* [`View All`](/backend/csharp)
 </details>
 
 <details>
 <summary>Others</summary>
 
-* [`XPTO1`](/backend/others)
-* [`XPTO2`](/backend/others)
-* [`XPTO3`](/backend/others)
+* [`View All`](/backend/others)
 </details>
 
 ### [Database](/database)
@@ -92,49 +72,37 @@ This is my code reference.
 <details>
 <summary>Mysql</summary>
 
-* [`XPTO1`](/database/mysql/)
-* [`XPTO2`](/database/mysql/)
-* [`XPTO3`](/database/mysql)
+* [`View All`](/database/mysql/)
 </details>
 
 <details>
 <summary>Oracle</summary>
 
-* [`XPTO1`](/database/oracle)
-* [`XPTO2`](/database/oracle)
-* [`XPTO3`](/database/oracle)
+* [`View All`](/database/oracle)
 </details>
 
 <details>
 <summary>MongoDB</summary>
 
-* [`XPTO1`](/database/mongodb)
-* [`XPTO2`](/database/mongodb)
-* [`XPTO3`](/database/mongodb)
+* [`View All`](/database/mongodb)
 </details>
 
 <details>
 <summary>DynamoDB</summary>
 
-* [`XPTO1`](/database/dynamodb)
-* [`XPTO2`](/database/dynamodb)
-* [`XPTO3`](/database/dynamodb)
+* [`View All`](/database/dynamodb)
 </details>
 
 <details>
 <summary>Postgre</summary>
 
-* [`XPTO1`](/database/postgre)
-* [`XPTO2`](/database/postgre)
-* [`XPTO3`](/database/postgre)
+* [`View All`](/database/postgre)
 </details>
 
 <details>
 <summary>Others</summary>
 
-* [`XPTO1`](/database/others)
-* [`XPTO2`](/database/others)
-* [`XPTO3`](/database/others)
+* [`View All`](/database/others)
 </details>
 
 ### [Devops](/devops)
@@ -142,49 +110,37 @@ This is my code reference.
 <details>
 <summary>Docker</summary>
 
-* [`XPTO1`](/devops/docker)
-* [`XPTO2`](/devops/docker)
-* [`XPTO3`](/devops/docker)
+* [`View All`](/devops/docker)
 </details>
 
 <details>
 <summary>AWS</summary>
 
-* [`XPTO1`](/devops/aws)
-* [`XPTO2`](/devops/aws)
-* [`XPTO3`](/devops/aws)
+* [`View All`](/devops/aws)
 </details>
 
 <details>
 <summary>Serverless</summary>
 
-* [`XPTO1`](/devops/serverless)
-* [`XPTO2`](/devops/serverless)
-* [`XPTO3`](/devops/serverless)
+* [`View All`](/devops/serverless)
 </details>
 
 <details>
 <summary>GAP</summary>
 
-* [`XPTO1`](/devops/gap)
-* [`XPTO2`](/devops/gap)
-* [`XPTO3`](/devops/gap)
+* [`View All`](/devops/gap)
 </details>
 
 <details>
 <summary>Kubernetes</summary>
 
-* [`XPTO1`](/devops/kubernetes)
-* [`XPTO2`](/devops/kubernetes)
-* [`XPTO3`](/devops/kubernetes)
+* [`View All`](/devops/kubernetes)
 </details>
 
 <details>
 <summary>Others</summary>
 
-* [`XPTO1`](/devops/others)
-* [`XPTO2`](/devops/others)
-* [`XPTO3`](/devops/others)
+* [`View All`](/devops/others)
 </details>
 
 ###### Feel free to use and contribute ;)
