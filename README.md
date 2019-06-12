@@ -3,7 +3,7 @@ This is my code reference.
 
 #### Search
 
-### [Front-end](/frontend)
+### Front-end
   
 <details>
 <summary>
@@ -65,7 +65,7 @@ This is my code reference.
 * [`XPTO3`](/frontend/others)      
 </details>  
 
-### [Back-end](/backend)
+### Back-end
 
 <details>
 <summary>
@@ -107,7 +107,7 @@ This is my code reference.
 * [`XPTO3`](/backend/others)
 </details>
 
-### [Database](/database)
+### Database
 
 <details>
 <summary>
@@ -169,7 +169,7 @@ This is my code reference.
 * [`XPTO3`](/database/others)
 </details>
 
-### [Devops](/devops)
+### Devops
 
 <details>
 <summary>
