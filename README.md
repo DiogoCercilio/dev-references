@@ -1,8 +1,6 @@
 # 📚 Code references
 This is my code reference.
 
-#### Search
-
 ### [Front-end](/frontend)
   
 <details>
