@@ -4,33 +4,50 @@ This is my code reference.
 ### [Front-end](/frontend)
   
 <details>
-  <summary>HTML</summary>
+<summary>HTML</summary>
 
-  * [`View All`](/frontend/html)
+* [`CheatSheet`](/frontend/js)
+* [`Microformats`](/frontend/js)
+* [`HTML5 APIS`](/frontend/html)
+* [`Links`](/frontend/js)
 </details>
 
 <details>
 <summary>Javascript / Ecmascript / Typescript</summary>
 
-* [`View All`](/frontend/js)
+* [`Scaffolds`](/frontend/js)
+* [`Design Patterns`](/frontend/js)
+* [`Snippets`](/frontend/js)
+* [`Angular`](/frontend/js)
+* [`React`](/frontend/js)
+* [`Vue`](/frontend/js)
+* [`Typescript`](/frontend/js)
+* [`Libraries`](/frontend/js)
+* [`Links`](/frontend/js)
 </details>
 
 <details>
 <summary>CSS / Prprocessors</summary>
 
-* [`View All`](/frontend/css)
-</details>  
-
-<details>
-  <summary>SEO</summary>
-
-* [`View All`](/frontend/seo)
+* [`Arquitecture (SMACSS, OOCSS, BEM etc)`](/frontend/css)
+* [`SCSS`](/frontend/css)
+* [`Less`](/frontend/css)
+* [`Stylus`](/frontend/css)
+* [`Tools`](/frontend/css)
+* [`Links`](/frontend/css)
 </details>  
 
 <details>
   <summary>Testing</summary>
 
-* [`View All`](/frontend/testing)
+* [`Chai`](/frontend/testing)
+* [`Mocha`](/frontend/testing)
+* [`Jasmine`](/frontend/testing)
+* [`Cypress`](/frontend/testing)
+* [`Protractor`](/frontend/testing)
+* [`Jest`](/frontend/testing)
+* [`Selenium`](/frontend/testing)
+* [`Webdriver`](/frontend/testing)
 </details>  
 
 <details>
