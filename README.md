@@ -16,6 +16,7 @@ This is my code reference.
 * [`Angular`](/frontend/js/frameworks/angular)
 * [`Design Patterns`](/)
 * [`NestJS`](/)
+* [`TypeORM`](/)
 * [`Snippets`](/)
 * [`React`](/)
 * [`Vue`](/)
