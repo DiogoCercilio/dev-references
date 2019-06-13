@@ -13,14 +13,14 @@ This is my code reference.
 <summary>Javascript / Ecmascript / Typescript</summary>
 
 * [`Angular`](/frontend/js/frameworks/angular)
-<!-- * [`Design Patterns`](/)
+* [`Design Patterns`](/)
 * [`Snippets`](/)
 * [`React`](/)
 * [`Vue`](/)
 * [`Typescript`](/)
 * [`Libraries`](/frontend/js)
 * [`Links`](/frontend/js) 
--->
+
 </details>
 
 <details>
