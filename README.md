@@ -6,54 +6,39 @@ This is my code reference.
 <details>
 <summary>HTML</summary>
 
-* [`CheatSheet`](/frontend/js)
-* [`Microformats`](/frontend/js)
-* [`HTML5 APIS`](/frontend/html)
-* [`Links`](/frontend/js)
+<!-- <!-- * [`View All`](/) --> Coming soon...
 </details>
 
 <details>
 <summary>Javascript / Ecmascript / Typescript</summary>
 
-* [`Scaffolds`](/frontend/js)
-* [`Design Patterns`](/frontend/js)
-* [`Snippets`](/frontend/js)
-* [`Angular`](/frontend/js)
-* [`React`](/frontend/js)
-* [`Vue`](/frontend/js)
-* [`Typescript`](/frontend/js)
+* [`Angular`](/frontend/js/frameworks/angular)
+<!-- * [`Design Patterns`](/)
+* [`Snippets`](/)
+* [`React`](/)
+* [`Vue`](/)
+* [`Typescript`](/)
 * [`Libraries`](/frontend/js)
-* [`Links`](/frontend/js)
+* [`Links`](/frontend/js) 
+-->
 </details>
 
 <details>
 <summary>CSS / Prprocessors</summary>
 
-* [`Arquitecture (SMACSS, OOCSS, BEM etc)`](/frontend/css)
-* [`SCSS`](/frontend/css)
-* [`Less`](/frontend/css)
-* [`Stylus`](/frontend/css)
-* [`Tools`](/frontend/css)
-* [`Links`](/frontend/css)
+<!-- * [`View All`](/) --> Coming soon...
 </details>  
 
 <details>
   <summary>Testing</summary>
 
-* [`Chai`](/frontend/testing)
-* [`Mocha`](/frontend/testing)
-* [`Jasmine`](/frontend/testing)
-* [`Cypress`](/frontend/testing)
-* [`Protractor`](/frontend/testing)
-* [`Jest`](/frontend/testing)
-* [`Selenium`](/frontend/testing)
-* [`Webdriver`](/frontend/testing)
+<!-- * [`View All`](/) --> Coming soon...
 </details>  
 
 <details>
   <summary>Others</summary>  
 
-* [`View All`](/frontend/others)
+<!-- * [`View All`](/) --> Coming soon...
 </details>  
 
 ### Back-end
@@ -61,25 +46,25 @@ This is my code reference.
 <details>
 <summary>Nodejs</summary>
 
-* [`View All`](/backend/nodejs)
+<!-- * [`View All`](/) --> Coming soon...
 </details>
 
 <details>
 <summary>Python</summary>
 
-* [`View All`](/backend/python)
+<!-- * [`View All`](/) --> Coming soon...
 </details>
 
 <details>
 <summary>C#</summary>
 
-* [`View All`](/backend/csharp)
+<!-- * [`View All`](/) --> Coming soon...
 </details>
 
 <details>
 <summary>Others</summary>
 
-* [`View All`](/backend/others)
+<!-- * [`View All`](/) --> Coming soon...
 </details>
 
 ### Database
@@ -87,37 +72,37 @@ This is my code reference.
 <details>
 <summary>Mysql</summary>
 
-* [`View All`](/database/mysql/)
+<!-- * [`View All`](/) --> Coming soon...
 </details>
 
 <details>
 <summary>Oracle</summary>
 
-* [`View All`](/database/oracle)
+<!-- * [`View All`](/) --> Coming soon...
 </details>
 
 <details>
 <summary>MongoDB</summary>
 
-* [`View All`](/database/mongodb)
+<!-- * [`View All`](/) --> Coming soon...
 </details>
 
 <details>
 <summary>DynamoDB</summary>
 
-* [`View All`](/database/dynamodb)
+<!-- * [`View All`](/) --> Coming soon...
 </details>
 
 <details>
 <summary>Postgre</summary>
 
-* [`View All`](/database/postgre)
+<!-- * [`View All`](/) --> Coming soon...
 </details>
 
 <details>
 <summary>Others</summary>
 
-* [`View All`](/database/others)
+<!-- * [`View All`](/) --> Coming soon...
 </details>
 
 ### Devops
@@ -125,37 +110,37 @@ This is my code reference.
 <details>
 <summary>Docker</summary>
 
-* [`View All`](/devops/docker)
+<!-- * [`View All`](/) --> Coming soon...
 </details>
 
 <details>
 <summary>AWS</summary>
 
-* [`View All`](/devops/aws)
+<!-- * [`View All`](/) --> Coming soon...
 </details>
 
 <details>
 <summary>Serverless</summary>
 
-* [`View All`](/devops/serverless)
+<!-- * [`View All`](/) --> Coming soon...
 </details>
 
 <details>
 <summary>GAP</summary>
 
-* [`View All`](/devops/gap)
+<!-- * [`View All`](/) --> Coming soon...
 </details>
 
 <details>
 <summary>Kubernetes</summary>
 
-* [`View All`](/devops/kubernetes)
+<!-- * [`View All`](/) --> Coming soon...
 </details>
 
 <details>
 <summary>Others</summary>
 
-* [`View All`](/devops/others)
+<!-- * [`View All`](/) --> Coming soon...
 </details>
 
 ###### Feel free to use and contribute ;)
